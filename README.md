@@ -1,21 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-[![LinkedIn Dailius profile](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dailiusrascius/)  
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- ![](https://komarev.com/ghpvc/?username=dailius-vcs&base=50&abbreviated=true)   -->
+
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?e&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/My%20Blog-Read%20Now-blue?" /></a>
+<a href="https://twitter.com"><img src="    https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+
+<div style="display: flex; align-items: center;">
+    <span style="margin-right: 10px;">👁️</span> 
+    <img src="https://komarev.com/ghpvc/?username=dailius-vcs&base=50&abbreviated=true" alt="Profile Views" />
+</div>
 
 
 
-<!--
-Default by GitHub
-**Dailius-VCS/dailius-vcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Statistics
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
