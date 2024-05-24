@@ -22,8 +22,9 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/>
     </a>
 </div>
-
-Hello! I'm [Your Name], and I'm all about making sure software works flawlessly. As a QA Engineer, I enjoy the challenge of finding those pesky bugs and creating robust test strategies.
+<br>
+Hello! I'm [Your Name], 
+I'm all about making sure software works flawlessly. As a QA Engineer, I enjoy the challenge of finding those pesky bugs and creating robust test strategies.
 
 ✨ What drives me:
 * Delivering exceptional user experiences
@@ -88,6 +89,5 @@ Feel free to explore my projects and reach out if you'd like to connect!
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dailius-vcs&show_icons=true&theme=tokyonight&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailius-vcs&layout=donut-vertical&theme=tokyonight)
 
