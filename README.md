@@ -30,8 +30,7 @@
 This hands-on experience directly informs my teaching, ensuring students gain practical skills alongside theoretical knowledge.
 
 
-
-<details>
+<details style="margin: 100;">
     <summary>
         <h2>🎯 I'm committed to:</h2>
     </summary>
@@ -66,7 +65,7 @@ This hands-on experience directly informs my teaching, ensuring students gain pr
 </details>
 <details>
     <summary>
-        <h2>🛠️ Skills and Tools</h2>
+        <h3>🛠️ Skills and Tools</h3>
     </summary>
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
@@ -112,8 +111,17 @@ This hands-on experience directly informs my teaching, ensuring students gain pr
 
 </details>
 
-## 📊 GitHub Statistics
-<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dailius-vcs&show_icons=true&theme=tokyonight&include_all_commits=true)
+## 📧 Let's Connect!
 
+I'm always eager to connect with fellow developers, QA enthusiasts, and anyone interested in the world of coding and quality assurance.   
+Feel free to explore my repositories and reach out!
+
+[dailiusvcs@gmail.com](mailto:dailiusvcs@gmail.com)
+<div>
+    <a href="https://www.linkedin.com/in/dailiusrascius/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?e&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</div>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=dailius-vcs&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
