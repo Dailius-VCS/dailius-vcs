@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Sveiki! (Hello!) I'm Dailius
 
 [//]: # (https://github.com/antonkomarev/github-profile-views-counter)
 ![](https://komarev.com/ghpvc/?username=dailius-vcs&base=50&abbreviated=true)
@@ -18,33 +18,26 @@
     <a href="https://github.com/">
         <img src="https://img.shields.io/badge/My%20Blog-Read%20Now-blue?"/>
     </a>
-    <a href="https://twitter.com">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/>
-    </a>
 </div>
-<br>
-Hello! I'm [Your Name], 
-I'm all about making sure software works flawlessly. As a QA Engineer, I enjoy the challenge of finding those pesky bugs and creating robust test strategies.
+<br/>
 
-✨ What drives me:
-* Delivering exceptional user experiences
-* Continuous learning and improvement
-* Collaborating with talented teams
+👋 I'm a software engineer passionate about quality and education.
 
-Feel free to explore my projects and reach out if you'd like to connect!
+🎓 As a Lecturer at Vilnius Coding School, I empower the next generation of tech talent, focusing on:
 
-## 🎯 Objectives
+* QA Manual & Automation Testing: Teaching the art of finding and preventing bugs, and the power of automated test suites.
+* Core Java & Kotlin: Guiding students through the fundamentals and advanced concepts of these versatile languages.
+* Spring Boot & Android: Building the foundation for creating robust backend services and engaging mobile applications.
 
-* Deliver high-quality software that meets or exceeds user expectations.
-* Continuously improve testing processes and efficiency through automation.
-* Champion a culture of quality within development teams.
-* Stay up-to-date with the latest QA tools, technologies, and best practices.
+💻 My background is in freelance development, where I've honed my skills in Java and Kotlin, crafting solutions for diverse clients. 
+This hands-on experience directly informs my teaching, ensuring students gain practical skills alongside theoretical knowledge.
 
-## 🚀 Projects
- * [Manual test project](https://github.com/)
- * [Automation test project](https://github.com/)
 
-## 🛠️ Skills and Tools
+<details>
+    <summary>
+        <h2>🛠️ Skills and Tools</h2>
+    </summary>
+
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin)
 ![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
@@ -58,6 +51,7 @@ Feel free to explore my projects and reach out if you'd like to connect!
 ![Spring boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Rest API](https://img.shields.io/badge/REST_API-brightgreen?style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Junit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![TestNg](https://img.shields.io/badge/TestNG-E05D44?style=for-the-badge&logo=testng&logoColor=white)
@@ -85,9 +79,10 @@ Feel free to explore my projects and reach out if you'd like to connect!
 ![Notepad ++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Statistics
+</details>
 
+## 📊 GitHub Statistics
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dailius-vcs&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailius-vcs&layout=donut-vertical&theme=tokyonight)
+
 
