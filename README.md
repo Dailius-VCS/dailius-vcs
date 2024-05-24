@@ -20,7 +20,7 @@
 
 👋 I'm a software engineer passionate about quality and education.
 
-🎓 As a Lecturer at Vilnius Coding School, I empower the next generation of tech talent, focusing on:
+🎓 As a Lecturer at Vilnius Coding School, where I help individuals launch and advance their careers in tech by focusing on:
 
 * QA Manual & Automation Testing: Teaching the art of finding and preventing bugs, and the power of automated test suites.
 * Core Java & Kotlin: Guiding students through the fundamentals and advanced concepts of these versatile languages.
