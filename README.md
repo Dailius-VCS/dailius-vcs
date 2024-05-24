@@ -30,6 +30,40 @@
 This hands-on experience directly informs my teaching, ensuring students gain practical skills alongside theoretical knowledge.
 
 
+
+<details>
+    <summary>
+        <h2>🎯 I'm committed to:</h2>
+    </summary>
+
+<table>
+    <tr>
+        <td>🗝️</td>
+        <td>Empowering Students</td>
+        <td>Equipping students with the skills, knowledge, and real-world experience needed to excel in the competitive software development landscape.</td>
+    </tr>
+    <tr>
+        <td>🌉</td>
+        <td>Bridging Theory and Practice</td>
+        <td>Connecting classroom learning with practical projects, giving students the confidence to tackle industry challenges.</td>
+    </tr>
+    <tr>
+        <td>🌱</td>
+        <td>Nurturing a Growth Mindset</td>
+        <td>Fostering a love of learning and a passion for continuous improvement in the ever-evolving tech industry.</td>
+    </tr>
+    <tr>
+        <td>🤝</td>
+        <td>Building a Strong Community</td>
+        <td>Creating a supportive and collaborative environment where students can learn from each other and grow together.</td>
+    </tr>
+    <tr>
+        <td>📚</td>
+        <td>Giving Back to the Community</td>
+        <td>Sharing my knowledge and expertise through open-source contributions, workshops, and mentorship.</td>
+    </tr>
+</table>
+</details>
 <details>
     <summary>
         <h2>🛠️ Skills and Tools</h2>
