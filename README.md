@@ -9,14 +9,11 @@
     https://github.com/badges/shields
 -->
 <div>
-    <a href="https://linkedin.com">
+    <a href="https://www.linkedin.com/in/dailiusrascius/">
         <img src="https://img.shields.io/badge/-LinkedIn-0072b1?e&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://github.com/">
+    <a href="https://dailius-vcs.github.io/">
         <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
-    </a>
-    <a href="https://github.com/">
-        <img src="https://img.shields.io/badge/My%20Blog-Read%20Now-blue?"/>
     </a>
 </div>
 <br/>
