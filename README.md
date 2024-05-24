@@ -30,7 +30,7 @@
 This hands-on experience directly informs my teaching, ensuring students gain practical skills alongside theoretical knowledge.
 
 
-<details style="margin: 100;">
+<details>
     <summary>
         <h2>🎯 I'm committed to:</h2>
     </summary>
