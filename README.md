@@ -1,6 +1,6 @@
 # [Your Name] - Quality Assurance Engineer
 
-![](https://komarev.com/ghpvc/?username=Dailius-VCS)
+![](https://komarev.com/ghpvc/?username=Dailius-VCS&color=yellow)
 
 > "Ensuring quality is not just a job, it's a passion."
 
