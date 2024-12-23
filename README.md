@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Dailius-VCS&color=2b8aa0)
 
+<a href="https://dailius-vcs.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
+</a>
+    
 > "Ensuring quality is not just a job, it's a passion."
 
 [![Badge: LinkedIn]](your-linkedin-profile)
